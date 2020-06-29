@@ -1,4 +1,4 @@
-# House-selling-price-prediction
+# House-cost-price-prediction
 this will predict the selling price of houses with the help of linear regrerssion
 this project was made with the reference to the machine learning project of itsmuriuki, you can find same project on the link below
 https://github.com/itsmuriuki/Predicting-House-prices
